@@ -15,6 +15,6 @@ def main():
             consulta = input("Querie: ")
             myCursor.execute(consulta)
         elif (menu == 0):
-            print("Adios")
+            print("Adios...")
 
 main()
